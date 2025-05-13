@@ -1,0 +1,12 @@
+div.line {
+    position: relative;
+    height: 17px;
+    background: green;
+}
+
+span {
+    position: absolute;
+    height: 17px;
+    background: red;
+    width: 10%;
+}
